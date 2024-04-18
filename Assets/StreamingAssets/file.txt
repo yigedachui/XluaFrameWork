@@ -1,0 +1,4 @@
+Assets/BuildResources/LuaScript/main.bytes|luascript/main.bytes.ab
+Assets/BuildResources/UI/bg.png|ui/bg.png.ab
+Assets/BuildResources/UI/btn.png|ui/btn.png.ab
+Assets/BuildResources/UI/Prefab/Canvas.prefab|ui/prefab/canvas.prefab.ab|Assets/BuildResources/UI/bg.png|Assets/BuildResources/UI/btn.png

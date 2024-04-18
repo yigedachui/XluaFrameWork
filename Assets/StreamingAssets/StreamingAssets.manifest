@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3945405691
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: luascript/main.bytes.ab
+      Dependencies: {}
+    Info_1:
+      Name: ui/bg.png.ab
+      Dependencies: {}
+    Info_2:
+      Name: ui/btn.png.ab
+      Dependencies: {}
+    Info_3:
+      Name: ui/prefab/canvas.prefab.ab
+      Dependencies:
+        Dependency_0: ui/bg.png.ab
+        Dependency_1: ui/btn.png.ab

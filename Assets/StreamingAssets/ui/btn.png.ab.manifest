@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 6538100
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d67bbde54219c46b93be1f56a00009b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BuildResources/UI/btn.png
+Dependencies: []
